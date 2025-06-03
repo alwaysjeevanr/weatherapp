@@ -44,7 +44,7 @@ weatherapp/
 The application uses the OpenWeatherMap API. The API key is hardcoded in the `script.js` file:
 
 ```javascript
-const apiKey = "ee92d9f45dc0e1905222bcedfde6af80";
+const apiKey = "[API of OpenWeatherMap]";
 ```
 
 You can replace this key with your own by signing up at [OpenWeatherMap](https://openweathermap.org/).
