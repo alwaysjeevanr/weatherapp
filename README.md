@@ -62,4 +62,4 @@ You can replace this key with your own by signing up at [OpenWeatherMap](https:/
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify it as per your needs.
+This project is for personal use and demonstration purposes. Feel free to use and modify it as per your needs.
